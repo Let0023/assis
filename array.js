@@ -4,8 +4,7 @@ const multipliedNumbers = numbers.map(num => num *2)
 console.log('array original:', numbers);
 console.log('array multiplicado por 2:', multipliedNumbers);
 
-
-
+console.log ("ola")
 
 
 
